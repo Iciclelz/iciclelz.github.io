@@ -1,0 +1,19 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-family: Consolas, monaco, monospace; 
+    font-size: 11px; 
+    font-style: normal; 
+    font-variant: normal; 
+}
+
+table {
+    width: 100%;
+}
+
+footer {
+    color: #808080;
+    font-family: Consolas, monaco, monospace; 
+    font-size: 9px; 
+}
+
